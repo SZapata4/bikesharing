@@ -46,4 +46,8 @@ If I wanted to look further into this data to find trends, I might look at creat
   •	Trip number or trip duration by age so you can see what age groups are already using the service and which ones to target with marketing campaigns.
   
   •	Trips by month so that you can see the trends in usage throughout the year.
+  
+  Below is the link to my Tableau story.
+  
+  https://public.tableau.com/shared/H69QWB73K?:display_count=n&:origin=viz_share_link
 
